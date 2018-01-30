@@ -1,4 +1,7 @@
 # Caché Web Terminal
+
+# THIS PROJECT IS MOVED TO [INTERSYSTEMS COMMUNITY REPOSITORY](https://github.com/intersystems-community/webterminal) AND IS NO LONGER MAINTAINED HERE. THIS REPOSITORY IS LEFT FOR COMPATIBILITY PURPOSES ONLY.
+
 Web-based Caché terminal for InterSystems products. Access your database from everywhere!
 
 + Visit the [project's page](http://intersystems-ru.github.io/webterminal) for more details. 
